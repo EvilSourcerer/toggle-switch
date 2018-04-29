@@ -15,9 +15,9 @@ Click "View Raw", and the dll file will automatically download.
 ### Prerequisites
 
 You will need the following to be able to use this control : 
-*.NET Framework 
-*Windows OS
-*Visual Studio
+* .NET Framework 
+* Windows OS
+* Visual Studio
 
 ### Installing
 To install this control into the Visual Studio toolbox, open your Visual Studio Winforms Project.
@@ -30,12 +30,12 @@ Here is an example of a program I made using this :
 
 ### Customization and events
 Currently, the toggle switch control supports a mediocre amount of control. New values and events may be added in the future.
-*ToggleBarText
-*ToggleCircleColor
-*ToggleBarColor
+* ToggleBarText
+* ToggleCircleColor
+* ToggleBarColor
 
 Available Events : 
-*CheckChanged
+* CheckChanged
 
 ## License
 
