@@ -28,13 +28,13 @@ Here is an example of a program I made using this :
 ![Toggle Slider Example](http://simpodex.com/ToggleSlider.gif)
 
 
-### Available Customization Options
+### Customization and events
+Currently, the toggle switch control supports a mediocre amount of control. New values and events may be added in the future.
 *ToggleBarText
 *ToggleCircleColor
 *ToggleBarColor
 
-### Available Events
-
+Available Events : 
 *CheckChanged
 
 ## License
