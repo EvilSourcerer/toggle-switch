@@ -1,0 +1,9 @@
+C:\Users\Sourcerer\source\repos\ToggleSlider\ToggleSlider\bin\Debug\ToggleSlider.dll
+C:\Users\Sourcerer\source\repos\ToggleSlider\ToggleSlider\bin\Debug\ToggleSlider.pdb
+C:\Users\Sourcerer\source\repos\ToggleSlider\ToggleSlider\obj\Debug\ToggleSlider.csprojResolveAssemblyReference.cache
+C:\Users\Sourcerer\source\repos\ToggleSlider\ToggleSlider\obj\Debug\ToggleSlider.csproj.CoreCompileInputs.cache
+C:\Users\Sourcerer\source\repos\ToggleSlider\ToggleSlider\obj\Debug\ToggleSlider.dll
+C:\Users\Sourcerer\source\repos\ToggleSlider\ToggleSlider\obj\Debug\ToggleSlider.pdb
+C:\Users\Sourcerer\source\repos\ToggleSlider\ToggleSlider\obj\Debug\ToggleSlider.csproj.GenerateResource.cache
+C:\Users\Sourcerer\source\repos\ToggleSlider\ToggleSlider\obj\Debug\ToggleSlider.ToggleSliderComponent.resources
+C:\Users\Sourcerer\source\repos\ToggleSlider\ToggleSlider\obj\Debug\ToggleSlider.Form1.resources
