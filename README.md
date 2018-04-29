@@ -29,13 +29,13 @@ Here is an example of a program I made using this :
 
 
 ### Available Customization Options
-* ToggleBarText
+*ToggleBarText
 *ToggleCircleColor
 *ToggleBarColor
 
 ### Available Events
 
-CheckChanged
+*CheckChanged
 
 ## License
 
