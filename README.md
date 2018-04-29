@@ -4,9 +4,9 @@ The C# Toggle Switch is a custom control you can import into your toolbox. It is
 
 ## How to Use
 
-To download to custom control, 
+To download to custom control, navigate to the following path :
 ```
-navigate the repository to toggle-switch/ToggleSlider/bin/Debug/ToggleSlider.dll
+toggle-switch/ToggleSlider/bin/Debug/ToggleSlider.dll
 ```
 Click "View Raw", and the dll file will automatically download.
 
@@ -28,9 +28,9 @@ Here is an example of a program I made using this :
 
 
 ### Available Customization Options
-ToggleBarText
-ToggleCircleColor
-ToggleBarColor
+* ToggleBarText
+*ToggleCircleColor
+*ToggleBarColor
 
 ### Available Events
 
