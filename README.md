@@ -1,6 +1,6 @@
 # C# Toggle Switch
 
-The C# Toggle Switch is a custom control you can import into your toolbox. It is designed to have a flat modern feel to it to make it feel as professional as possible.
+The Winforms Toggle Switch is a custom control you can import into your toolbox. It is designed to have a flat modern feel to it to make it feel as professional as possible.
 
 ## How to Use
 
