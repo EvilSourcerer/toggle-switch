@@ -25,7 +25,7 @@ Then, open your toolbox, and then right click on any section of the toolbox and 
 
 Here is an example of a program I made using this : 
 
-![Toggle Slider Example](http://simpodex.com/ToggleSlider.gif)
+![Toggle Slider Example](http://simpodex.com/ToggleSwitch.gif)
 
 
 ### Customization and events
